@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>772030807376-0eatflod3eescl2rt32ald8o6vhvcg1g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.772030807376-0eatflod3eescl2rt32ald8o6vhvcg1g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZzWZjt04jDVhgqZTSLwxlvsvzFRzPCmA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>772030807376</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>viplab.plants</string>
+	<key>PROJECT_ID</key>
+	<string>ncnuplants-f77ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ncnuplants-f77ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:772030807376:ios:2ad1ab5e015f358a</string>
+	<key>DATABASE_URL</key>
+	<string>https://ncnuplants-f77ba.firebaseio.com</string>
+</dict>
+</plist>
